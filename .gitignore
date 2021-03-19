@@ -24,13 +24,4 @@ yarn-error.log*
 .env
 
 # IDEA
-/.idea/**
-!/.idea/codeStyles/
-!/.idea/codeStyles/**
-!/.idea/dictionaries/
-!/.idea/dictionaries/**
-!/.idea/inspectionProfiles/
-!/.idea/inspectionProfiles/**
-!/.idea/runConfigurations/
-!/.idea/runConfigurations/**
-!/.idea/saveactions_settings.xml
+/.idea/
